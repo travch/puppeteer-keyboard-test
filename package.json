@@ -1,0 +1,11 @@
+{
+  "name": "keyboard-testing",
+  "version": "0.0.1",
+  "description": "testing keyboard inputs",
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node event-viewer.test.js"
+  }
+}
